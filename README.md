@@ -5,6 +5,6 @@ You will need to add a sendgrid email API key in order for this to work
 
 You will also needs node installed
 
-npm install
-npm build
-npm run start
+- npm install
+- npm build
+- npm run start
