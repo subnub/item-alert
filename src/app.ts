@@ -15,7 +15,8 @@ In order to add our own you need to add to the siteList array, this is an array 
 The objects need the following data to properly check through the site
 'sitename' is the name of the site
 'emailed' is if an email was sent yet set this to false. 
-'itemName' is the name of the item. siteURL is the URL of the site to check.
+'itemName' is the name of the item. 
+'siteURL' is the URL of the site to check.
 'HTMLElement' is the HTML element to search for.
 'includes' is if is checking if this HTML element exists or not.
 */
